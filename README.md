@@ -65,6 +65,7 @@ Check out some examples from the [Fedi and Epoch VC hackathon from January 2023]
 To get started with development you can launch a ready to go developer environment on clovyr.
 
 ![clovyr_Logo_500](https://github.com/fedibtc/fedi-alpha/assets/42595944/d20bb7e6-1931-426d-b6f1-1d03dacc978f)
+
 1-click developer setup with Clovyr
 
 As always though, if you'd prefer to get into the details, please join us on [the Fedimint Discord](https://discord.gg/Nz6jUj4q) to learn more about setting up your developer environment through Nix or head to the [introduction for contributors](https://github.com/fedibtc/fedimint-fedi/blob/master/docs/contributing.md)
