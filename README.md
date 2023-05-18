@@ -10,20 +10,16 @@ Toegther they allow communities to deploy Federations to manage their money, dat
 
 Federations are made up of a set of fedimint servers run by independent guardians that collaborate to form a federation. Here we have a custom build of Fedimint that will help you setup your own federations and connect using Fedi Alpha.
 
-> Please be advised - Fedi Alpha is an early Alpha release of Fedimint and Fedi, which is intended for use by builders, developers and enthusiasts. 
->
->This is intended solely for testing purposes.
+> Please be aware that Fedi Alpha operates on a signet Federation, where all the Sats/Bitcoin within this federation, including the faucet website associated with it, hold no monetary value and are solely intended for testing purposes.
 >
 > We strongly advise against using this version of the app for any significant financial transactions as there is a risk of loss. It is important to note that Fedi assumes no responsibility for any loss or use of the test version of the app and web app.
-
----
 
 ## Get Building
 
 Here are some things to help get started!
 
 1. **Try out the Fedi app**: Head to [alpha.fedi.xyz](https://alpha.fedi.xyz) to download the app and get set up.
-2. **Run your own Federation:** Stand up your own federation for long run testing in your community.
+2. **Run your own Federation:** Jump into the discord and learn to stand up your own federation for long run testing in your community.
 3. **Develop your own sites and modules:** Setup your developer environment and jump into the Fedimint developer community.
 
 * Please be careful of using a fedimint on mainnet. Whilst this is possible the software is in an alpha state and there is a real possibility of lost funds. 
