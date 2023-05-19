@@ -22,19 +22,19 @@ We are working with several partners to bring 1-click installs to enthusiasts ev
 
 ## 2. Contribute to Fedimint and Build out your own modules
 
-The Fedimint Community has been building rapidly over the last year to get to this point, but there's still plenty of work to do and ways to get involved. From managing and automating lightning gateways to building out new modules, documentation and contrinbuting to the core consensus code Fedimint is an opensource protocol that will benefit from your involvement. 
+The Fedimint Community has experienced significant growth in the past year, but there are still plenty of exciting opportunities to get involved. From managing and automating lightning gateways to building out new modules, documentation and contributing to the core consensus code, Fedimint is an open source protocol that allows you to make a difference while also benefiting from the project's advancements.
 
-With Fedimints you can run any smart contract you want in Rust, inside the Fedimint.
+With fedimints, you have the freedom to execute any Rust-based smart contract within the Fedimint ecosystem.
 
-Early this year (January 2023) [Fedi and Epoch VC sposnosed a fedimint module hackathon](https://www.fedi.xyz/blog/fedimint-hackaton-winners) to show what could be done. This sparked a wave of ideas in the communtiy such a [Fedipools](https://www.discreetlog.com/fedipool/) and [Stabilty Pools](https://thebitcoinmanual.com/articles/fedimint-stability-pool/). 
+Early this year (January 2023) [Fedi and Epoch VC sposnosed a fedimint module hackathon](https://www.fedi.xyz/blog/fedimint-hackaton-winners) to show what could be done. This sparked a wave of ideas in the communtiy such as [Fedipools](https://www.discreetlog.com/fedipool/) and [Stabilty Pools](https://thebitcoinmanual.com/articles/fedimint-stability-pool/). 
 
 If you need more inspiration you can also [check out the dsicussion boards on fedimint github!](https://github.com/fedimint/fedimint/discussions)
 
-Now you're excited you'll want to get a development environment setup, recently we've been touring giving module development workshops using a [1-click developer setup with Clovyr](https://clovyr.app/instant/code-fedimint).
+Get ready to jump right in and have hands-on experience! Recently we've been touring giving module development workshops using a[1-click developer setup with Clovyr](https://clovyr.app/instant/code-fedimint) to get a development environment setup.
 
 <a href="https://clovyr.app/instant/code-fedimint" target="_blank"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/279505fc-4d2c-419b-a178-62915d4f044f"></picture></a>
 
-As always though, if you'd prefer to get into the details, please join us on [the Fedimint Discord](https://discord.gg/Nz6jUj4q) to learn more about setting up your developer environment through Nix or head to the [introduction for contributors](https://github.com/fedibtc/fedimint-fedi/blob/master/docs/contributing.md)
+As always though, if you'd prefer to get into the details, please join us on [the Fedimint Discord](https://discord.gg/Nz6jUj4q) to learn more about setting up your developer environment through Nix or head to the [introduction for contributors](https://github.com/fedibtc/fedimint-fedi/blob/master/docs/contributing.md).
 
 We'll also be running a series of webinars, workshops and tutorials which we'll be sharing through the website [fedi.xyz/builders](https://fedi.xyz/builders).
 
@@ -42,9 +42,11 @@ We'll also be running a series of webinars, workshops and tutorials which we'll 
 
 The simplest way to understand a fedimint is to use one!
 
-<a href="https://testflight.apple.com/v1/app/6444390789?build=112780359" target="_blank"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/3ca2c7bc-1278-467a-94f8-da775851bbdd"></picture></a>
+<p float="left">
+  <a href="https://testflight.apple.com/v1/app/6444390789?build=112780359" target="_blank"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/3ca2c7bc-1278-467a-94f8-da775851bbdd" height="90"></picture></a>
+  <a href="https://play.google.com/store/apps/details?id=com.fedimintreactnative&pli=1" target="_blank"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/7145aa21-cb2b-432b-878c-a6b863f1a779" height="90"></picture></a>
+</p>
 
-<a href="https://play.google.com/store/apps/details?id=com.fedimintreactnative&pli=1" target="_blank"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/7145aa21-cb2b-432b-878c-a6b863f1a779"></picture></a>
 
 Don't like app stores - no problem try out an this apk or our [Progressive Web App](app.v0.fedi.xyz). 
 
