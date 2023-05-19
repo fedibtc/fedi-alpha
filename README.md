@@ -10,7 +10,35 @@ Fedimint is a modular open source protocol to custody and transact bitcoin in a 
 
 Federations are a set of one or (usually) more fedimint servers working collaboratively, each run by an independent guardian. 
 
-## 1. Try out Fedi
+In this repo we have packaged a custom build of Fedimint that will help you set up your own federations and connect using Fedi Alpha.
+
+## 1. Run your own Federation
+
+It's important that Federations should be broadly distributed around the world. We hope one day to see millions of Federations deployed in communities across the planet by people like you. So this repo contains a custom build of the latest Fedimint code that will allow you to set up a Federation using pre-packaged docker images.
+
+The Fedi team can often be found hanging out and helping out in [the Fedimint Discord](https://discord.gg/Nz6jUj4q), over the course of the next month you'll find us hosting deployment parties which we'll record and share to help you through the setup using the [official docker images](https://hub.docker.com/u/fedimint).
+
+We are working with several partners to bring 1-click installs to enthusiasts everywhere, so stay tuned!
+
+## 2. Contribute to Fedimint and Build out your own modules
+
+The Fedimint Community has been building rapidly over the last year to get to this point, but there's still plenty of work to do and ways to get involved. From managing and automating lightning gateways to building out new modules, documentation and contrinbuting to the core consensus code Fedimint is an opensource protocol that will benefit from your involvement. 
+
+With Fedimints you can run any smart contract you want in Rust, inside the Fedimint.
+
+Early this year (January 2023) [Fedi and Epoch VC sposnosed a fedimint module hackathon](https://www.fedi.xyz/blog/fedimint-hackaton-winners) to show what could be done. This sparked a wave of ideas in the communtiy such a [Fedipools](https://www.discreetlog.com/fedipool/) and [Stabilty Pools](https://thebitcoinmanual.com/articles/fedimint-stability-pool/). 
+
+If you need more inspiration you can also [check out the dsicussion boards on fedimint github!](https://github.com/fedimint/fedimint/discussions)
+
+Now you're excited you'll want to get a development environment setup, recently we've been touring giving module development workshops using a [1-click developer setup with Clovyr](https://clovyr.app/instant/code-fedimint).
+
+<a href="https://clovyr.app/instant/code-fedimint" target="_blank"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/279505fc-4d2c-419b-a178-62915d4f044f"></picture></a>
+
+As always though, if you'd prefer to get into the details, please join us on [the Fedimint Discord](https://discord.gg/Nz6jUj4q) to learn more about setting up your developer environment through Nix or head to the [introduction for contributors](https://github.com/fedibtc/fedimint-fedi/blob/master/docs/contributing.md)
+
+We'll also be running a series of webinars, workshops and tutorials which we'll be sharing through the website [fedi.xyz/builders](https://fedi.xyz/builders).
+
+## 3. Try out Fedi
 
 The simplest way to understand a fedimint is to use one!
 
@@ -31,31 +59,3 @@ Once you've got the app, you'll want to connect to a federation and get setup wi
 > Please be aware that Fedi Alpha operates on a signet Federation, where all the Sats/Bitcoin within this federation, including the faucet website associated with it, hold no monetary value and are solely intended for testing purposes.
 >
 > We strongly advise against using this version of the app for any significant financial transactions as there is a risk of loss. It is important to note that Fedi assumes no responsibility for any loss or use of the test version of the app and web app.
-
-## 2. Run your own Federation
-
-Once you've had a look around the app, you may decide you want to try this out yourself.
-
-It's important that Federations should be broadly distributed around the world, we hope one day to see millions of Federations deployed in communities across the planet by people like you.  So this repo contains a custom build of the latest Fedimint code that will allow you to setup an alpha federation using a pre-packaged docker images. 
-
-The Fedi team can often be found hanging out and helping out in [the Fedimint Discord](https://discord.gg/Nz6jUj4q), over the course of next you'll find us their hosting deployment parties which we'll record and share to help you through the setup using the [official docker images](https://hub.docker.com/u/fedimint). 
-
-So soon this will get even easier as we are working with several partners to bring 1-click installs to enthusiasts everywhere.
-
-## 3. Contribute to Fedimint and Build out your own modules
-
-The Fedimint Community has been building rapidly over the last year to get to this point, but there's still plenty of work to do and ways to get involved. From managing and automating lightning gateways to building out new modules, documentation and contrinbuting to the core consensus code Fedimint is an opensource protocol that will benefit from your involvement. 
-
-With Fedimints you can run any smart contract you want in Rust, inside the Fedimint.
-
-Early this year (January 2023) [Fedi and Epoch VC sposnosed a fedimint module hackathon](https://www.fedi.xyz/blog/fedimint-hackaton-winners) to show what could be done. This sparked a wave of ideas in the communtiy such a [Fedipools](https://www.discreetlog.com/fedipool/) and [Stabilty Pools](https://thebitcoinmanual.com/articles/fedimint-stability-pool/). 
-
-If you need more inspiration you can also [check out the dsicussion boards on fedimint github!](https://github.com/fedimint/fedimint/discussions)
-
-Now you're excited you'll want to get a development environment setup, recently we've been touring giving module development workshops using a [1-click developer setup with Clovyr](https://clovyr.app/instant/code-fedimint).
-
-<a href="https://clovyr.app/instant/code-fedimint" target="_blank"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/279505fc-4d2c-419b-a178-62915d4f044f"></picture></a>
-
-As always though, if you'd prefer to get into the details, please join us on [the Fedimint Discord](https://discord.gg/Nz6jUj4q) to learn more about setting up your developer environment through Nix or head to the [introduction for contributors](https://github.com/fedibtc/fedimint-fedi/blob/master/docs/contributing.md)
-
-We'll also be running a series of webinars, workshops and tutorials which we'll be sharing through the website [fedi.xyz/builders](https://fedi.xyz/builders).
