@@ -16,7 +16,7 @@ The simplest way to understand a fedimint is to use one!
 
 <a href="https://play.google.com/store/apps/details?id=com.fedimintreactnative&pli=1"><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/14e084be-9a6d-422c-9042-41be2427c9af"></a>
 
-Don't like ap stores - no problem we got you an apk or just try out our [Progressive Web App](app.v0.fedi.xyz). 
+Don't like app stores - no problem try out an this apk or our [Progressive Web App](app.v0.fedi.xyz). 
 
 Whilst we've been zapping eCash around the planet and funding geyser campaigns with for little while now, we recognise that nothing gets an idea across like first hand use. To make this easy we have deployed a public federation to the [MutinyNet bitcoin signet](https://blog.mutinywallet.com/mutinynet/).  
 
