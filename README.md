@@ -11,10 +11,13 @@ Federations are made up of a set of fedimint servers run by independent guardian
 ## 1. Try out Fedi
 
 The simplest way to understand a fedimint is to use one!
+[![Alt text](https://someimage.svg)](https://destination)
 
-**** DOWNLOAD IMAGE LINKS TO FEDI ON APP STORE **** **** AND PLAY STORE ****
+[![app-store-500](https://github.com/fedibtc/fedi-alpha/assets/42595944/f8f084a5-8453-4874-ba9c-6546c499fd9e)](https://google.com)
 
-Text links for options on .apk and pwa options. 
+![play-store-500](https://github.com/fedibtc/fedi-alpha/assets/42595944/14e084be-9a6d-422c-9042-41be2427c9af)
+
+Don't like ap stores - no problem we got you an apk or just try out our [Progressive Web App](app.v0.fedi.xyz). 
 
 Whilst we've been zapping eCash around the planet and funding geyser campaigns with for little while now, we recognise that nothing gets an idea across like first hand use. To make this easy we have deployed a public federation to the [MutinyNet bitcoin signet](https://blog.mutinywallet.com/mutinynet/).  
 
@@ -22,7 +25,7 @@ We love the mision of Mutinynet for experimentation and testing long run lightni
 
 Once you've got the app, you'll want to connect to a federation and get setup with some signet satoshis, just head to [alpha.fedi.xyz](https://alpha.fedi.xyz) to get started.
 
-![image](https://github.com/fedibtc/fedi-alpha/assets/42595944/60a53bdb-3236-40fa-a835-ef8d682ce8da)
+![Fedi Faucet Preview](https://github.com/fedibtc/fedi-alpha/assets/42595944/60a53bdb-3236-40fa-a835-ef8d682ce8da)
 
 > Please be aware that Fedi Alpha operates on a signet Federation, where all the Sats/Bitcoin within this federation, including the faucet website associated with it, hold no monetary value and are solely intended for testing purposes.
 >
