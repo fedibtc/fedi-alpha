@@ -12,7 +12,7 @@ Federations are made up of a set of fedimint servers run by independent guardian
 
 The simplest way to understand a fedimint is to use one!
 
-[<img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/f8f084a5-8453-4874-ba9c-6546c499fd9e">](http://example.com/)
+<a href="http://example.com"><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/f8f084a5-8453-4874-ba9c-6546c499fd9e"></a>
 
 ![app-store-500](https://github.com/fedibtc/fedi-alpha/assets/42595944/f8f084a5-8453-4874-ba9c-6546c499fd9e)
 
