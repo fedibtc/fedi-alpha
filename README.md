@@ -1,12 +1,14 @@
-# Fedi Alpha
+# Fedi Alpha - Fedimint Modules
 
-Fedi Alpha, powered by Fedimint. 
+Fedi Alpha, powered by Fedimint.
 
-Fedimint is a modular open source protocol to custody and transact bitcoin in a community context, built on a strong foundation of privacy. 
+Fedi is the world's first glimpse of a Federated OS, home for your money, chat, and data. Fedi Alpha is an exclusive version for builders, developers, and pioneers. 
 
-Fedi is the worlds first Federated OS. It works with Fedimint to build Federations, that let communtiies take back control. Your money, your data data and your online life.
+Federated OS is the technology that lets individuals collaborate through Federations to take control of their money, their data, and their digital lives while protecting user privacy and autonomy.
 
-Federations are made up of a set of fedimint servers run by independent guardians that collaborate to form a federation. In this repo we have packaged a custom build of Fedimint that will help you setup your own federations and connect using Fedi Alpha.
+Fedimint is a modular open source protocol to custody and transact bitcoin in a community context, built on a strong foundation of privacy.
+
+Federations are a set of one or (usually) more fedimint servers working collaboratively, each run by an independent guardian. 
 
 ## 1. Try out Fedi
 
