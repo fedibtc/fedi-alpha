@@ -43,8 +43,8 @@ We'll also be running a series of webinars, workshops and tutorials which we'll 
 The simplest way to understand a fedimint is to use one!
 
 <p float="left">
-  <a href="https://testflight.apple.com/v1/app/6444390789?build=112780359" target="_blank"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/3ca2c7bc-1278-467a-94f8-da775851bbdd" height="90"></picture></a>
-  <a href="https://play.google.com/store/apps/details?id=com.fedimintreactnative&pli=1" target="_blank"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/7145aa21-cb2b-432b-878c-a6b863f1a779" height="90"></picture></a>
+  <a href="https://testflight.apple.com/join/PcZriKrI" target="_blank"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/3ca2c7bc-1278-467a-94f8-da775851bbdd" height="90"></picture></a>
+  <a href="https://play.google.com/store/apps/details?id=com.fedi" target="_blank"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/7145aa21-cb2b-432b-878c-a6b863f1a779" height="90"></picture></a>
 </p>
 
 
