@@ -28,7 +28,7 @@ Once you've got the app, you'll want to connect to a federation and get setup wi
 >
 > We strongly advise against using this version of the app for any significant financial transactions as there is a risk of loss. It is important to note that Fedi assumes no responsibility for any loss or use of the test version of the app and web app.
 
-### 2. Run your own Federation
+## 2. Run your own Federation
 
 Once you've had a look around the app, you may decide you want to try this out yourself.
 
@@ -38,27 +38,19 @@ The Fedi team can often be found hanging out and helping out in [the Fedimint Di
 
 So soon this will get even easier as we are working with several partners to bring 1-click installs to enthusiasts everywhere.
 
-### 3. Contribute to Fedimint and Build out your own modules
+## 3. Contribute to Fedimint and Build out your own modules
 
-The Fedimint COmmunity The Fedi app is designed to be extensible and interoperable with the best of Bitcoin. 
+The Fedimint Community has been building rapidly over the last year to get to this point, but there's still plenty of work to do and ways to get involved. From managing and automating lightning gateways to building out new modules, documentation and contrinbuting to the core consensus code Fedimint is an opensource protocol that will benefit from your involvement. 
 
-We use open standards to allow you to write your own applications that work with the Fedi app. 
+With Fedimints you can run any smart contract you want in Rust, inside the Fedimint.
 
-Accounts are managed from your key (via LNURL-Auth), restore your wallet and restore access to every site you have an account on. 
+Early this year (January 2023) [Fedi and Epoch VC sposnosed a fedimint module hackathon](https://www.fedi.xyz/blog/fedimint-hackaton-winners) to show what could be done. This sparked a wave of ideas in the communtiy such a [Fedipools](https://www.discreetlog.com/fedipool/) and [Stabilty Pools](https://thebitcoinmanual.com/articles/fedimint-stability-pool/). 
 
-Need to send or withdraw to the wallet, just use simple WebLN integration to move money to your favorite sites.
+If you need more inspiration you can also [check out the dsicussion boards on fedimint github!](https://github.com/fedimint/fedimint/discussions)
 
-More than this, Fedimint is a modular open source protocol. 
-
-You can write any consensus application or any smart contract you want in Rust and run it right there in the fedimint. Simple, Scalable and Safe. 
-
-Check out some examples from the [Fedi and Epoch VC hackathon from January 2023](https://www.fedi.xyz/blog/fedimint-hackaton-winners).
-
-To get started with development you can launch a ready to go developer environment on clovyr.
+Now you're excited you'll want to get a development environment setup, recently we've been touring giving module development workshops using a [1-click developer setup with Clovyr](https://clovyr.app/instant/code-fedimint).
 
 ![clovyr_Logo_300](https://github.com/fedibtc/fedi-alpha/assets/42595944/279505fc-4d2c-419b-a178-62915d4f044f)
-
-1-click developer setup with Clovyr
 
 As always though, if you'd prefer to get into the details, please join us on [the Fedimint Discord](https://discord.gg/Nz6jUj4q) to learn more about setting up your developer environment through Nix or head to the [introduction for contributors](https://github.com/fedibtc/fedimint-fedi/blob/master/docs/contributing.md)
 
