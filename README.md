@@ -12,9 +12,9 @@ Federations are made up of a set of fedimint servers run by independent guardian
 
 The simplest way to understand a fedimint is to use one!
 
-<a href="https://testflight.apple.com/v1/app/6444390789?build=112780359"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/f8f084a5-8453-4874-ba9c-6546c499fd9e"></picture></a>
+<a href="https://testflight.apple.com/v1/app/6444390789?build=112780359" target="_blank"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/f8f084a5-8453-4874-ba9c-6546c499fd9e"></picture></a>
 
-<a href="https://play.google.com/store/apps/details?id=com.fedimintreactnative&pli=1"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/14e084be-9a6d-422c-9042-41be2427c9af"></picture></a>
+<a href="https://play.google.com/store/apps/details?id=com.fedimintreactnative&pli=1" target="_blank"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/14e084be-9a6d-422c-9042-41be2427c9af"></picture></a>
 
 Don't like app stores - no problem try out an this apk or our [Progressive Web App](app.v0.fedi.xyz). 
 
@@ -24,7 +24,7 @@ We love the mision of Mutinynet for experimentation and testing long run lightni
 
 Once you've got the app, you'll want to connect to a federation and get setup with some signet satoshis, just head to [alpha.fedi.xyz](https://alpha.fedi.xyz) to get started.
 
-<a href="https://alpha.fedi.xyz"><picture>![Fedi Faucet Preview](https://github.com/fedibtc/fedi-alpha/assets/42595944/60a53bdb-3236-40fa-a835-ef8d682ce8da)</picture></a>
+<a href="https://alpha.fedi.xyz" target="_blank"><picture>![Fedi Faucet Preview](https://github.com/fedibtc/fedi-alpha/assets/42595944/60a53bdb-3236-40fa-a835-ef8d682ce8da)</picture></a>
 
 > Please be aware that Fedi Alpha operates on a signet Federation, where all the Sats/Bitcoin within this federation, including the faucet website associated with it, hold no monetary value and are solely intended for testing purposes.
 >
