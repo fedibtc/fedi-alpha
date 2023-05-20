@@ -32,7 +32,8 @@ If you need more inspiration you can also [check out the discussion boards on fe
 
 Get ready to jump right in and have hands-on experience! Recently we've been at hackathons and conferences to give module development workshops using a [1-click developer setup with Clovyr](https://clovyr.app/instant/code-fedimint) to get a development environment setup in minutes.
 
-<a href="https://clovyr.app/instant/code-fedimint" target="_blank"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/279505fc-4d2c-419b-a178-62915d4f044f"></picture></a>
+<a href="https://clovyr.app/instant/code-fedimint" target="_blank"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/910c9b4f-45f4-47f1-8a81-1c5e467ba109"></picture></a>
+
 
 As always though, if you'd prefer to get into the details, please join us on [the Fedimint Discord](https://discord.gg/Nz6jUj4q) to learn more about setting up your developer environment through Nix or head to the [introduction for contributors](https://github.com/fedibtc/fedimint-fedi/blob/master/docs/contributing.md) on github.
 
@@ -43,8 +44,8 @@ We'll also be running a series of webinars, workshops and tutorials which we'll 
 The simplest way to understand a fedimint is to use one!
 
 <p float="left">
-  <a href="https://testflight.apple.com/join/PcZriKrI" target="_blank"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/3ca2c7bc-1278-467a-94f8-da775851bbdd" height="90"></picture></a>
-  <a href="https://play.google.com/store/apps/details?id=com.fedi" target="_blank"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/7145aa21-cb2b-432b-878c-a6b863f1a779" height="90"></picture></a>
+  <a href="https://testflight.apple.com/join/PcZriKrI" target="_blank"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/4d392f3e-e5e1-498a-a4e8-60d4c9d8a382" height="90"></picture></a>
+  <a href="https://play.google.com/store/apps/details?id=com.fedi" target="_blank"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/8b2384ee-b0d3-4c79-a9e1-f355d08330d5" height="90"></picture></a>
 </p>
 
 
@@ -56,7 +57,7 @@ We love the mission of Mutinynet, allowing the experimentation and testing of lo
 
 Once you've got the app, you'll want to connect to a federation and get setup with some signet satoshis, just head to our faucet at [alpha.fedi.xyz](https://alpha.fedi.xyz) to get started.
 
-<a href="https://alpha.fedi.xyz" target="_blank"><picture>![Fedi Faucet Preview](https://github.com/fedibtc/fedi-alpha/assets/42595944/60a53bdb-3236-40fa-a835-ef8d682ce8da)</picture></a>
+<a href="https://alpha.fedi.xyz" target="_blank"><picture>![Fedi Faucet Preview](https://github.com/fedibtc/fedi-alpha/assets/42595944/fcc6ad9d-f97b-46e3-8146-5e6f148953b3)</picture></a>
 
 > Please be aware that Fedi Alpha operates on a signet Federation, where all the Sats/Bitcoin within this federation, including the faucet website associated with it, hold no monetary value and are solely intended for testing purposes.
 >
