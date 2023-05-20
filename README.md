@@ -41,7 +41,7 @@ We'll also be running a series of webinars, workshops and tutorials which we'll 
 
 ## 3. Try out Fedi
 
-The simplest way to understand a fedimint is to use one!
+The simplest way to understand a Federated OS is to use one!
 
 <p float="left">
   <a href="https://testflight.apple.com/join/PcZriKrI" target="_blank"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/4d392f3e-e5e1-498a-a4e8-60d4c9d8a382" height="90"></picture></a>
