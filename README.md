@@ -16,7 +16,7 @@ In this repo we will host a custom build of Fedimint that will help you set up y
 
 It's important that Federations should be broadly distributed around the world. We hope one day to see millions of Federations deployed in communities across the planet by people like you. So this repo contains a custom build of the latest Fedimint code that will allow you to set up a Federation using pre-packaged docker images.
 
-The Fedi team can often be found hanging out and helping out in [the Fedimint Discord](https://discord.gg/Nz6jUj4q), over the course of the next month you'll find us hosting deployment parties which we'll record and share to help you through the setup using the [official docker images](https://hub.docker.com/u/fedimint).
+The Fedi team can often be found hanging out and helping out in [the Fedimint Discord](https://discord.gg/hK4Sw76ZS4), over the course of the next month you'll find us hosting deployment parties which we'll record and share to help you through the setup using the [official docker images](https://hub.docker.com/u/fedimint).
 
 We are also working with several partners to bring 1-click installs to enthusiasts everywhere, which we'll link from this repository, so stay tuned!
 
@@ -35,7 +35,7 @@ Get ready to jump right in and have hands-on experience! Recently we've been at 
 <a href="https://clovyr.app/instant/code-fedimint" target="_blank"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/910c9b4f-45f4-47f1-8a81-1c5e467ba109"></picture></a>
 
 
-As always though, if you'd prefer to get into the details, please join us on [the Fedimint Discord](https://discord.gg/Nz6jUj4q) to learn more about setting up your developer environment through Nix or head to the [introduction for contributors](https://github.com/fedimint/fedimint/blob/master/docs/contributing.md) on github.
+As always though, if you'd prefer to get into the details, please join us on [the Fedimint Discord](https://discord.gg/hK4Sw76ZS4) to learn more about setting up your developer environment through Nix or head to the [introduction for contributors](https://github.com/fedimint/fedimint/blob/master/docs/contributing.md) on github.
 
 We'll also be running a series of webinars, workshops and tutorials which we'll be sharing through the website [fedi.xyz/builders](https://fedi.xyz/builders).
 
