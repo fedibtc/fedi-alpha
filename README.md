@@ -48,8 +48,7 @@ The simplest way to understand a Federated OS is to use one!
   <a href="https://play.google.com/store/apps/details?id=com.fedi" target="_blank"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/70575e5d-4f68-4c3f-b905-1132176314ca" height="90"></picture></a>
 </p>
 
-
-Don't like app stores - no problem [download the apk](https://github.com/fedibtc/fedi-alpha/releases) or our head to our [Progressive Web App](https://app.fedi.xyz). 
+Don't like app stores - no problem [download the apk](https://github.com/fedibtc/fedi-alpha/releases).
 
 Whilst we've been zapping eCash around the planet and funding geyser campaigns with eCash for a while now, we recognise that nothing gets an idea across like first hand use. To make this easy we have deployed a public federation to the [MutinyNet bitcoin signet](https://blog.mutinywallet.com/mutinynet/).
 
