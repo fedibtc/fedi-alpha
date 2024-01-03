@@ -44,7 +44,7 @@ We'll also be running a series of webinars, workshops and tutorials which we'll 
 The simplest way to understand a Federated OS is to use one!
 
 <p float="left">
-  <a href="https://testflight.apple.com/join/PcZriKrI" target="_blank"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/600ef468-4907-4168-803d-d085648f62bc" height="90"></picture></a>
+  <a href="https://apps.apple.com/us/app/fedi-alpha/id6448916281" target="_blank"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/600ef468-4907-4168-803d-d085648f62bc" height="90"></picture></a>
   <a href="https://play.google.com/store/apps/details?id=com.fedi" target="_blank"><picture><img src="https://github.com/fedibtc/fedi-alpha/assets/42595944/70575e5d-4f68-4c3f-b905-1132176314ca" height="90"></picture></a>
 </p>
 
