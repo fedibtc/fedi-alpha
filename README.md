@@ -52,7 +52,7 @@ Don't like app stores - no problem [download the apk](https://github.com/fedibtc
 
 Whilst we've been zapping eCash around the planet and funding geyser campaigns with eCash for a while now, we recognise that nothing gets an idea across like first hand use. To make this easy we have deployed a public federation to the [MutinyNet bitcoin signet](https://blog.mutinywallet.com/mutinynet/).
 
-We love the mission of Mutinynet, allowing the experimentation and testing of long run lightning enabled apps in a more life life environment, we hope to see many more apps and mods deploying test instances here soon - let us know if you join and maybe we can add you to Fedi!
+We love the mission of Mutinynet, allowing the experimentation and testing of long run lightning enabled apps in a more life like environment, we hope to see many more apps and mods deploying test instances here soon - let us know if you join and maybe we can add you to Fedi!
 
 Once you've got the app, you'll want to connect to a federation and get setup with some signet satoshis, just head to our faucet at [alpha.fedi.xyz](https://alpha.fedi.xyz) to get started.
 
